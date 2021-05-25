@@ -15,7 +15,7 @@ Overview of the projects on github.
     Matlab code for control, analysis, etc of quantum spin-1/2 networks.
 * [**Quantum Spintronics**](https://qyber.black/quantum-spintronics)\
   Simulation and control of quantum spintronic semiconductor devices.
-  * [Info](https://github.com/xis10z/Info-Quantum-Spintronics) - Mirror of https://qyber.black/quantum-spintronics/info-quantum-spintronics \
+  * [Info](https://github.com/xis10z/Info-Quantum-Spintronics/wiki) - Mirror of https://qyber.black/quantum-spintronics/info-quantum-spintronics \
     Overview of our quantum spintronics results.
 
 ## Healthcare
