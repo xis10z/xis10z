@@ -24,6 +24,8 @@ Overview of the projects on github.
   MRS pulse sequences, spectral analysis and quantification.
   * [LWFIT](https://github.com/xis10z/Code-LWFIT) - Mirror of https://qyber.black/pca/code-qdicom-utilities \
     GABA quantification from MEGA-PRESS magnetic resonance spectra.
+  * [MRSNet](https://github.com/MaxChandler/MRSNet) - Mirror of https://qyber.black/mrs/code-mrsnet \
+    MR spectral quantification using convoloutional neural networks.
 * [**Prostate Cancer**](https://qyber.black/pca) on Qyber\black\
   Prostate cancer diagnosis.
   * [QDicom-Utilties](https://github.com/xis10z/Code-QDicom-Utilities) - Mirror of https://qyber.black/pca/code-qdicom-utilities \
