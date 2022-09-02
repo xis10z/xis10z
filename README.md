@@ -13,6 +13,8 @@ Overview of the projects on github.
   Quantum control and robust control for spin networks.
   * [MatSpinNet](https://github.com/qyber-black/Code-MatSpinNet) - Mirror of https://qyber.black/spinnet/code-matspinnet \
     Matlab code for control, analysis, etc of quantum spin-1/2 networks.
+  * [RobChar](https://github.com/qyber-black/robchar_public) - Mirror of https://qyber.black/spinnet/code-robchar \
+    Statistical robustness characterization of quantum controls and quantum control algorithms.
 * [**Quantum Spintronics**](https://qyber.black/quantum-spintronics)\
   Simulation and control of quantum spintronic semiconductor devices.
   * [Info](https://github.com/qyber-black/Info-Quantum-Spintronics/wiki) - Mirror of https://qyber.black/quantum-spintronics/info-quantum-spintronics \
